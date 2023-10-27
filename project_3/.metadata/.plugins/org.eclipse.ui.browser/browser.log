@@ -1,0 +1,47 @@
+
+Oct 13, 2023 12:56:47.44 NEW SESSION
+Oct 13, 2023 12:56:47.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 13, 2023 12:58:22.33 [9712:12612:1013/125822.332:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 13, 2023 13:25:28.46 [9712:12612:1013/132528.462:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 13, 2023 13:25:51.71 [9712:12612:1013/132551.717:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 13, 2023 13:28:40.49 [9712:12612:1013/132840.499:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 13, 2023 13:37:12.83 [9712:12612:1013/133712.838:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 13, 2023 13:37:40.61 [9712:12612:1013/133740.610:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 13, 2023 13:38:26.64 [9712:12612:1013/133826.644:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 13, 2023 13:40:13.23 [9712:12612:1013/134013.229:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 13, 2023 14:34:25.00 [9712:6256:1013/143425.007:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Oct 13, 2023 15:02:18.95 [9712:12612:1013/150218.956:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 13, 2023 15:06:46.59 [9712:12612:1013/150646.595:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Oct 13, 2023 22:46:14.95 NEW SESSION
+Oct 13, 2023 22:46:14.95 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 13, 2023 23:26:37.46 [16972:17100:1013/232637.460:ERROR:device_event_log_impl.cc(225)] [23:26:37.460] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 13, 2023 23:40:09.21 [16972:8636:1013/234009.211:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for cdn2.funnelenvy.com failed:
+Oct 13, 2023 23:40:09.21 ----- Certificate i=0 (CN=cdn2.funnelenvy.com) -----
+Oct 13, 2023 23:40:09.21 ERROR: Time is after notAfter
+Oct 13, 2023 23:40:09.21 
+Oct 13, 2023 23:40:09.21 
+Oct 14, 2023 24:27:08.60 [16972:15944:1014/002708.605:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 14, 2023 24:31:09.80 [16972:15944:1014/003109.801:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 14, 2023 10:53:23.88 [16972:15944:1014/105323.882:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 14, 2023 10:53:23.90 [16972:9032:1014/105323.901:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 14, 2023 11:27:31.62 [16972:15944:1014/112731.620:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 14, 2023 12:07:04.26 [16972:15944:1014/120704.267:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 14, 2023 12:14:20.91 [16972:15944:1014/121420.913:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 14, 2023 12:14:49.21 [16972:15944:1014/121449.218:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 14, 2023 12:15:42.90 [16972:15944:1014/121542.902:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 14, 2023 12:17:14.95 [16972:15944:1014/121714.953:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 14, 2023 12:20:17.39 [16972:15944:1014/122017.398:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 14, 2023 12:34:44.47 [16972:15944:1014/123444.476:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Oct 14, 2023 13:20:23.09 [16972:15944:1014/132023.099:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 14, 2023 13:58:05.20 [16972:15944:1014/135805.209:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 14, 2023 15:10:28.72 [16972:15944:1014/151028.724:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 14, 2023 15:42:09.52 [16972:15944:1014/154209.522:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 14, 2023 22:17:47.28 [16972:15944:1014/221747.287:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Oct 14, 2023 22:18:24.95 [16972:17100:1014/221824.955:ERROR:device_event_log_impl.cc(225)] [22:18:24.955] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 14, 2023 22:18:59.40 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 15, 2023 24:06:58.80 [15036:9944:1015/000658.808:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 15, 2023 03:10:30.90 [15036:9944:1015/031030.899:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 16, 2023 11:01:18.88 [15036:9944:1016/110118.882:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 16, 2023 11:01:18.89 [15036:15796:1016/110118.891:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 16, 2023 11:01:19.35 [15036:9944:1016/110119.358:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106

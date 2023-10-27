@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [16/Oct/2023:11:40:05 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3811
+0:0:0:0:0:0:0:1 - - [16/Oct/2023:11:40:05 +0530] "GET /project_3/img/custom.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Oct/2023:11:40:05 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [16/Oct/2023:11:40:05 +0530] "GET /project_3/img/university_img.jpg HTTP/1.1" 304 -
